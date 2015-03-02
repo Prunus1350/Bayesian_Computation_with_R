@@ -1,0 +1,2 @@
+# Bayesian_Computation_with_R
+Rで学ぶベイズ統計学入門
